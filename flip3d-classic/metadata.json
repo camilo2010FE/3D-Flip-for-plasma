@@ -1,0 +1,15 @@
+{
+    "KPackageStructure": "KWin/WindowSwitcher",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Flip 3D Recreation"
+            }
+        ],
+        "Description": "Flip 3D Classic: pila diagonal de ventanas reales para KWin 6.8",
+        "Id": "aero-flip3d-classic",
+        "License": "GPL-2.0-or-later",
+        "Name": "Aero Flip 3D Classic",
+        "Version": "1.0.0"
+    }
+}
