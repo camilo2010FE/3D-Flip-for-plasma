@@ -29,7 +29,8 @@ Installation instructions will be added here.
 
 ## Screenshots
 
-Coming soon!
+### Main view
+![3D Flip main view](screenshots/screenshots1.png)
 
 ## Project Status
 
