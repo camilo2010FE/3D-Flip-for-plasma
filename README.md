@@ -30,7 +30,7 @@ Installation instructions will be added here.
 ## Screenshots
 
 ### Main view
-![3D Flip main view](screenshots/screenshots1.png)
+![3D Flip main view](screenshots/screenshots.png)
 
 ## Project Status
 
