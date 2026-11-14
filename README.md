@@ -36,9 +36,13 @@ Installation instructions will be added here.
 
 This project is under development. Features and compatibility may change.
 
-## License
+## Copyright
 
-This project is licensed under the GNU General Public License v2.0 (GPL-2.0).
+Copyright © 2026 Camilo. All rights reserved.
+
+This project is provided for viewing purposes only. No permission is granted to copy, modify, redistribute, or publish derivative works without prior written authorization from the author.
+
+Contributions and pull requests are not accepted.
 
 ---
 
